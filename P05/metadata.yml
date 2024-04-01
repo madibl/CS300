@@ -1,0 +1,14 @@
+---
+:id: 206722789
+:submitters:
+- :name: NATHAN HAN
+  :email: nhhan@wisc.edu
+- :name: MADISON LIN
+  :email: mblin@wisc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-27 02:56:19.941844000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-26 19:56:19.941844000 Z
+:status: processed
+:score: 33.5
